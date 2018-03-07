@@ -1,0 +1,34 @@
+
+.primary{
+    color: darkgreen;
+}
+
+.accent{
+    color: #44ae30;
+}
+
+.navbar{
+    color: #00008b;
+}
+
+.test{
+    color: black;
+}
+
+.red{
+    color: red;
+}
+
+success
+warning
+danger
+info
+
+.primary-bg{
+    background-color: lightgreen;
+}
+
+.border-color{
+    width:100%;
+    border:1px violet
+}

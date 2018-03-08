@@ -1,0 +1,13 @@
+Layouts
+
+
+.color{
+    color:red;
+}
+
+Adding an picture inside a box
+.googlelink{
+    background-image: url("C:/Users/ITK17/Documents/GitHub/css-kurs/bilder/google2.0.0.jpg");
+    background-size: 100%;
+    height:1.2em;
+}

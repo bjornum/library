@@ -10,10 +10,12 @@ FLEXBOX
     background-color: dodgerblue;
     border: dashed 10px black;
     margin-bottom:50px;
+    color:rgb(173, 110, 110) !important;
 }
 
 .navbar{
     background-color: #f1f1f1;
+    color:rgb(173, 110, 110) !important;
     margin: 10px;
     padding: 10px;
     font-size: 30px;

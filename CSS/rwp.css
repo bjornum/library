@@ -43,10 +43,29 @@
     padding-top:0px;
     padding-right:0px;
     padding-bottom:0px;
-    padding-left:0px;
+    padding-left:10px;
 }
 
 .navbar a:hover{
     color:black;
     background-color:#ddd;
+}
+
+.navbar-prop{
+    height:20px;
+    width:500px;
+}
+
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-container{
+    display: flex;
+    background-color: dodgerblue;
+    border: dashed 10px black;
+    margin-bottom:50px;
 }

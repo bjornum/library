@@ -1,0 +1,41 @@
+.flex-middle-box{
+    display: flex;
+    align-self:center;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+
+.headliner-h1{
+    text-align:center;
+    color: white;
+}
+
+.text-row{
+    display:inline;
+}
+
+Middle-box-headline{
+    display:flex;
+    align-self:center;
+}
+
+.flex-bottom-boxes{
+    display:flex;
+    align-self:center;
+    justify-content:center;
+}
+.align-items-center{
+    align-items:center;
+}
+.flex-height-width{
+    height:100%;
+    width:100%;
+}
+/* both font-4 is the same size */
+.font-4{
+    font-size: 4em;
+}
+
+.font-4a{
+    font-size: 64px;
+}
